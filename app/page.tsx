@@ -12,7 +12,7 @@ export default function Home() {
             className="text-4xl font-bold text-center mb-6 text-purple-600"
             style={{ fontFamily: "'Comic Sans MS', cursive" }}
           >
-            Welcome to Stinky Pinky! 🎭
+            Welcome to Stinky Pinky yall! 🎭
           </h1>
           <div className="space-y-6">
             <p className="text-center text-xl text-gray-700">
